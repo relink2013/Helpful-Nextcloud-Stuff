@@ -4,4 +4,4 @@
  - `nvidia-tf-install.md`
 	 - This is a guide on how to get Tensorflow GPU working with Recognize in Nextcloud.
  - `nvidia-tf-auto.sh`
-	 - This is a script to setup CUDA, cuDNN, Tensorflow, and TensorRT for you to use with Recognize in Nextcloud. It's currently UNTESTED. If you try it please let me know the result. 
+	 - This is a script to setup CUDA, cuDNN, Tensorflow, and TensorRT for you to use with Recognize in Nextcloud. It's currently UNTESTED. If you try it please create an issue describing if it worked or not with any relevant info. 
